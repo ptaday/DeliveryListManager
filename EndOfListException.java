@@ -1,10 +1,7 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
 
-package Homework2;
 
 /**
  * This class represents a customised exception which helps to handle exception when encountered.
