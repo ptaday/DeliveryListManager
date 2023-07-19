@@ -47,6 +47,8 @@ $ java Main
 ```
 Follow the on-screen prompts to use the menu-driven interface to manage delivery stops and orders.
 
+Make sure to create a single package for all the classes and and include them in the first line of your code.
+
 ## Required Classes
 
 ### Delivery
