@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework2;
 
 /**
  * This class represents a delivery with a source, destination and instruction.
