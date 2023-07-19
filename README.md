@@ -39,11 +39,11 @@ $ cd DeliveryListManager
 ## Usage
 To compile 
 ```bash
-$ javac Main.java
+$ javac DeliveryDriver.java
 ```
 Run the DeliveryListManager application from the command line.
 ```bash
-$ java Main
+$ java DeliveryDriver
 ```
 Follow the on-screen prompts to use the menu-driven interface to manage delivery stops and orders.
 
