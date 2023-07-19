@@ -49,25 +49,25 @@ Follow the on-screen prompts to use the menu-driven interface to manage delivery
 
 ## Required Classes
 
-###Delivery
+### Delivery
 A class representing a delivery with source, destination, and instruction details. It provides getter and setter methods for all member variables and a toString() method to display the delivery information.
 
-###DeliveryListNode
+### DeliveryListNode
 A class wrapping a Delivery object to enable insertion into a doubly linked-list. The class contains two references, next and prev, serving as links to the previous and next DeliveryListNodes in the list. It provides getter and setter methods for all member variables.
 
-###DeliveryList
+### DeliveryList
 A class implementing a double linked-list data structure to maintain a list of Deliveries. The list is chained between a head and a tail reference. A cursor is provided to traverse the list and perform operations like insertion, deletion, and manipulation of the Deliveries.
 
-###DeliveryDriver
+### DeliveryDriver
 A class creating two instances of the DeliveryList class to provide an interface for managing delivery stops and orders. The main method runs a menu-driven application that interacts with the user to perform various operations.
 
-##Contributing
+## Contributing
 Contributions to the DeliveryListManager project are welcome! If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please read CONTRIBUTING.md for more details.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contact
+## Contact
 If you have any questions or feedback, you can contact the project maintainer at:
 
 Email: pmtaday@gmail.com
