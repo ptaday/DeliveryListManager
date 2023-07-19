@@ -2,7 +2,6 @@
  * @author Pushkar Taday
  */
 
-package Homework2;
 
 /**
  * This class helps create nodes for the delivery list.
