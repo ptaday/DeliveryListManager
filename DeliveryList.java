@@ -1,10 +1,7 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
 
-package Homework2;
 
 /**
  * This class contains different methods which carry out different operations on the list containing deliveries
